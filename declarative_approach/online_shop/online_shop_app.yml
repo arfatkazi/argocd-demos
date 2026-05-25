@@ -14,7 +14,7 @@ spec:
     targetRevision: main
     path: declarative_approach/online_shop
   destination:
-    server: https://172.31.31.239:33893
+    server: https://172.31.24.53:33893
     namespace: default 
 
 
